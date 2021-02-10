@@ -1,4 +1,5 @@
 # S.O.L.I.D
+#### Check and play with playground code 
 
 # The Single Responsibility Principle
   Each class/model have only single Responsibility 
