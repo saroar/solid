@@ -117,8 +117,8 @@ public class MultiFunctionMachine : MultiFunctionDevice {
   
 }
 ```
-
 </details>
+
 # The Dependency Inversion Principle
 <details>
 <summary>
