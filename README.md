@@ -182,6 +182,7 @@ public class MultiFunctionMachine : MultiFunctionDevice {
   High level classes should not depend on low level classes. Both should depend on abstractions.  
   Abstractions should not depend on the details. The details should depend on the abstractions.
 </summary>
+ 
 ```swift
 public struct Order {
   public let amount: Double
